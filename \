@@ -57,22 +57,12 @@
 
         <footer class="footer">
             <div class="container">
-                <div class="row footer_row">
+                <div class="row">
                     <div class="col-12">
-                        <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/amiay.narayan"><i class="fa fa-facebook fa-lg"></i></a>&nbsp;  &nbsp;
-                        <a class="btn btn-social-icon btn-linkedin" href="https://www.linkedin.com/in/amiay-narayan-14a5a1168/"><i class="fa fa-linkedin fa-lg"></i></a>  &nbsp; &nbsp;
-                        <a class="btn btn-social-icon" href="https://lichess.org/@/amiaynara"><i class="fa fa-chess fa-lg"></i></a>&nbsp;  &nbsp;
-
-                        <a class="btn btn-social-icon btn-instagram" href="https://www.instagram.com/amiaynarayan/?hl=en"><i class="fa fa-instagram fa-lg"></i></a>&nbsp;  &nbsp;
-
-                        <a class="btn btn-social-icon btn-linkedin" href="https://www.codechef.com/users/aminara"><i class="fa fa-code fa-lg"></i></a>
-
-                </div>
-                <div class="col-12">
-                    <address>
-		              <i class="fa fa-phone"></i>&nbsp;Tel.: +91 6261814641<br>
-		              <i class="fa fa-envelope"></i>&nbsp; Email: <a >amiayn@iitbhilai.ac.in</a>
-                </div>
+                    <div class="text-center">
+                        <a class="btn btn-social-icon btn-facebook" href="http://www.google.com/"><i class="fa fa-facebook fa-lg"></i></a>
+                        <i class="fab fa-linkedin fa-lg"></i>
+                    </div>
                 </div>
                         
 
@@ -89,6 +79,5 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
         <script src="bootstrap4_files/js/bootstrap.min.js"></script>
-        <script src="https://kit.fontawesome.com/1ede2e224f.js" crossorigin="anonymous"></script> <!-- for chess -->
     </body>
 </html>
